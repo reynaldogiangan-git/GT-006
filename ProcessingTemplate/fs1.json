@@ -1,0 +1,12 @@
+{
+  "owner": "reynaldogiangan@gmail.com",
+  "priority": "0",
+  "processingType": "SERVICE",
+  "sensorType": "FILE_SENSOR",
+  "serverNodeType": "FILE_MANAGER",
+  "serviceType": "SENSOR",
+  "statisticMethod": "AVERAGE",
+  "statisticPeriod": "MONTH",
+  "customFieldValues": {
+  }
+}
